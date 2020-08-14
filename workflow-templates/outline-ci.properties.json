@@ -6,6 +6,6 @@
         "TeX"
     ],
     "filePatterns": [
-        "outline.tex$"
+        "outline.tex"
     ]
 }
