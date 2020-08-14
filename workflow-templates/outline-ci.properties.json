@@ -1,0 +1,11 @@
+{
+    "name": "Outline workflow",
+    "description": "GQCG's outline CI workflow template.",
+    "iconName": "gqcg-ci",
+    "categories": [
+        "TeX"
+    ],
+    "filePatterns": [
+        "outline.tex$"
+    ]
+}
