@@ -1,0 +1,1 @@
+This repo implements workflow templates that can be [shared within the gqcg-res organization](https://docs.github.com/en/actions/configuring-and-managing-workflows/sharing-workflow-templates-within-your-organization). Unfortunately, these workflow templates can (for now) only be used to create new workflows in an organizations' **public** repositories.
